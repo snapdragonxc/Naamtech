@@ -9,7 +9,7 @@ It was built using React, React-Router and Redux. Non-functional requirements e.
 
 An ExpressJS server is provided to run it locally. All of the code for the front-end is contained within the folder "src".
 
-Screen shots of the running app are available in the folder "screen-shots".
+Screen shots of the running app are shown below and are in the folder "screen-shots".
 
 ### Installation
 
@@ -24,3 +24,9 @@ To run the website locally:
 npm start
 ```
 and navigate to 'localhost:3000' in your web browser.
+
+### Screen Shots
+
+![alt text](https://raw.githubusercontent.com/snapdragonxc/Naamtech/master/screen-shots/Screenshot%20from%202018-10-12%2009-36-48.png)
+
+![alt text](https://github.com/snapdragonxc/Naamtech/blob/master/screen-shots/Screenshot%20from%202018-10-12%2009-37-02.png)
