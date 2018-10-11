@@ -1,0 +1,25 @@
+
+.day {
+  font-size: 1.6rem;
+  line-height: 2.0rem;
+  margin-bottom: .3rem;
+  background-color: #999;
+  border-radius: 0px;
+  text-align: center;
+  color: #fff;
+  width: 2.2rem;
+}
+
+.wrapper {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.text-footer {
+  letter-spacing: 2px;
+}
+
+.add-wrapper {
+  max-width: 500px;
+  margin: 0 auto;
+}
